@@ -6,3 +6,5 @@ If you want a better view in my projects, visit [my website](https://yannik-brae
 
 
 Also don't hesitate to contact me if you have any questions/inquiries regarding any of my repos.
+
+<a rel="me" href="https://mastodon.gamedev.place/@misterixi">Mastodon</a>
